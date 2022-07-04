@@ -1,0 +1,16 @@
+B:\Projects\Inventory_Sytem\Inventory_Sytem\bin\Debug\Inventory_Sytem.exe.config
+B:\Projects\Inventory_Sytem\Inventory_Sytem\bin\Debug\Inventory_Sytem.exe
+B:\Projects\Inventory_Sytem\Inventory_Sytem\bin\Debug\Inventory_Sytem.pdb
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.csproj.AssemblyReference.cache
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.csproj.SuggestedBindingRedirects.cache
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.Forms.frmCategory.resources
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.Forms.frmProduct.resources
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.FrmMainMenu.resources
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.Properties.Resources.resources
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.csproj.GenerateResource.cache
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.csproj.CoreCompileInputs.cache
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.exe
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.pdb
+B:\Projects\Inventory_Sytem\Inventory_Sytem\bin\Debug\Newtonsoft.Json.dll
+B:\Projects\Inventory_Sytem\Inventory_Sytem\bin\Debug\Newtonsoft.Json.xml
+B:\Projects\Inventory_Sytem\Inventory_Sytem\obj\Debug\Inventory_Sytem.csproj.CopyComplete
